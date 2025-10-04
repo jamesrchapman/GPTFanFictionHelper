@@ -84,3 +84,5 @@ Region {
 
 
 
+great! my initial first impression is that chatgpt has a pretty damn hard time not just starting to write fan fiction, and he has a hard time filling out the sheet how I would have hoped. 
+There's a story-writing instinct that seems to have to underlay the issues 
